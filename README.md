@@ -24,7 +24,7 @@ I'm a Computer Science undergraduate at **IIIT Senapati, Manipur** (2022–26, C
 
 ### 💼 Experience
 
-**AI Intern** · Optficial Labs Pvt. Ltd., Hyderabad *(Present)*
+**AI Intern** ·Labs Pvt. Ltd., *(Present)*
 Fine-tuning models on domain-specific data, LLM integration, and backend systems with FastAPI and Postgres.
 
 **Research Intern** · IIT Kanpur *(Remote)*
