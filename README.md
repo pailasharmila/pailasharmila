@@ -11,7 +11,7 @@
 
 ### 🧭 About Me
 
-I'm a Computer Science undergraduate at **IIIT Senapati, Manipur** (2022–26, CGPA 8.27), currently working as an **AI Intern at Optficial Labs**, where I build voice-first, safety-compliant advisory systems and contribute to research on multimodal medical AI. I enjoy working at the intersection of **NLP, multimodal learning, and applied AI systems** — from research pipelines to production-ready APIs.
+I'm a Computer Science undergraduate at **IIIT Senapati, Manipur** (2022–26, CGPA 8.27), currently working as an **AI Intern at Labs**, where I build voice-first, safety-compliant advisory systems and contribute to research on multimodal medical AI. I enjoy working at the intersection of **NLP, multimodal learning, and applied AI systems** — from research pipelines to production-ready APIs.
 
 ---
 
